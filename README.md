@@ -1,3 +1,7 @@
 vijay-vit-org
 
-.txt file initiatedd from feature-1 branch
+.txt file initiated.
+
+direct to main branch
+
+2nd commit
